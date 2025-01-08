@@ -1,0 +1,15 @@
+0    "https://en.wikipedia.org/wiki/Dot-com_bubble",
+1    "https://en.wikipedia.org/wiki/Real_estate_investment_trust",
+2    "https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis",
+3    "https://en.wikipedia.org/wiki/COVID-19_recession",
+4    "https://en.wikipedia.org/wiki/Financial_crisis",
+5    "https://en.wikipedia.org/wiki/S%26P_500",
+6    "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+7    "https://en.wikipedia.org/wiki/Nasdaq",
+8    "https://en.wikipedia.org/wiki/Cryptocurrency",
+9    "https://en.wikipedia.org/wiki/Energy_industry",
+10   "https://en.wikipedia.org/wiki/Goldman_Sachs",
+11   "https://en.wikipedia.org/wiki/Stock_market_crash"
+12   "https://en.wikipedia.org/wiki/Category:Real_estate_companies_of_the_United_States"
+13   "https://en.wikipedia.org/wiki/Blockchain"
+14   "https://en.wikipedia.org/wiki/Bitcoin"
