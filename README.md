@@ -13,4 +13,21 @@ original_articles.json: Τα αρχικά άρθρα με 'καθαρισμέν�
 TF.json : Συχνότητα ενός όρου σε κάθε άρθρο.
 IDF.json : Συχνότητα όρου σε όλα τα έγγραφα.
 
+Οδηγίες Χρήσης :
+1. Αποθηκεύστε όλα τα αρχεία JSON που περιέχουν το inverted_index και τα άρθρα.
+2. Τρέξτε τη συνάρτηση rank_query() με το query της επιλογής σας. Κατά προτίμηση χρησιμοποιείστε οικονομικούς όρους.
+3. Eπιλέξτε μέθοδο αναζήτησης: "TF-IDF" ή "Boolean".
+
+Παράδειγμα : 
+query = "Covid Economy Consequences" 
+results = rank_query(query,method="TF-IDF")
+
+Εμφάνιση Αποτελεσμάτων:
+print(f"Ranked results for query '{query}':")
+for result in results:
+    print(f"Document ID: {result['id']}, Title: {result['title']}")
+
+
+
+
 
