@@ -21,7 +21,7 @@ import math
 
 #COLLECT WIKI PAGES
 
-#we will create a wikipedia crawler using beautifulsoup
+#create a wikipedia crawler using beautifulsoup
 #to parse html and extract the text 
 
 # List of wikipedia urls to scrape
